@@ -12,7 +12,8 @@ I am also preparing for tech interviews 🧠 with [LeetCode](https://leetcode.co
 
 I have a keen interest in quantitative finance 📈, where I experiment with AI 🤖, improve my statistics and math skills , and gain knowledge of financial markets. 💡
 
-I'm also diving into writing articles about the technologies I use in my projects. You can find them on [Medium](https://medium.com/@baarthomas). 📝
+I'm also diving into writing articles about the technologies I use in my projects. You can find them on [Medium](https://medium.com/@baarthomas). 📝 Have a look and feel free to leave a clap and comment!
+
 
 ## Languages and Tools
 
@@ -36,3 +37,5 @@ I'm also diving into writing articles about the technologies I use in my project
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/thomasbaar/) and check out my solutions on [LeetCode](https://leetcode.com/baarthomas/).
+
+I'm open to all opportunities and would love to connect! Let's connect! 🤝
