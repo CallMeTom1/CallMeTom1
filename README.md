@@ -1,4 +1,5 @@
 ### Hi there 👋
+![GitHub followers](https://img.shields.io/github/followers/CallMeTom1?label=Follow&style=social)
 
 <!--
 **CallMeTom1/CallMeTom1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
