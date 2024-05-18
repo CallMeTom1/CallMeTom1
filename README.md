@@ -3,7 +3,7 @@
 ## About Me
 I am a computer science student 👨‍💻 currently learning and developing my skills. I strive to learn 📚 as much as I can and get hands-on experience with various technologies. I am very curious and love exploring new fields. 🚀
 
-## I'm Currently Working On
+## Currently Working On
 I'm currently working on **Euro-Sky-Star** ✈️, a school web project with a microservice architecture 🛠️ . This project uses gRPC for communication, Kafka for handling messages, and an API gateway with REST HTTP. I am building the front end with Angular 🅰️.
 
 I am also preparing for tech interviews 🧠 with LeetCode and learning algorithms and data structures.
