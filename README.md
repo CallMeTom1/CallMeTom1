@@ -10,7 +10,8 @@ I am also preparing for tech interviews 🧠 with LeetCode and learning algorith
 
 I have a keen interest in quantitative finance 📈, where I experiment with AI 🤖, improve my statistics and math skills , and gain knowledge of financial markets. 💡
 
-I'm also diving into writing articles about the technologies I use in my projects. You can find them on [Medium]([https://medium.com/@yourusername](https://medium.com/@baarthomas). 📝
+I'm also diving into writing articles about the technologies I use in my projects. You can find them on [Medium](https://medium.com/@baarthomas). 📝
+
 
 ## Languages and Tools
 
