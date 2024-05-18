@@ -38,4 +38,4 @@ I'm also diving into writing articles about the technologies I use in my project
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/thomasbaar/) and check out my solutions on [LeetCode](https://leetcode.com/baarthomas/).
 
-I'm open to all opportunities and would love to connect! Let's connect! 🤝
+I'm open to all opportunities and would love to connect! 🤝
