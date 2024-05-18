@@ -6,12 +6,11 @@ I am a computer science student 👨‍💻 currently learning and developing my
 ## Currently Working On
 I'm currently working on **Euro-Sky-Star** ✈️, a school web project with a microservice architecture 🛠️ . This project uses gRPC for communication, Kafka for handling messages, and an API gateway with REST HTTP. I am building the front end with Angular 🅰️.
 
-I am also preparing for tech interviews 🧠 with LeetCode and learning algorithms and data structures.
+I am also preparing for tech interviews 🧠 with [LeetCode](https://leetcode.com/baarthomas/) and learning algorithms and data structures.
 
 I have a keen interest in quantitative finance 📈, where I experiment with AI 🤖, improve my statistics and math skills , and gain knowledge of financial markets. 💡
 
 I'm also diving into writing articles about the technologies I use in my projects. You can find them on [Medium](https://medium.com/@baarthomas). 📝
-
 
 ## Languages and Tools
 
@@ -33,3 +32,5 @@ I'm also diving into writing articles about the technologies I use in my project
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/thomasbaar/) and check out my solutions on [LeetCode](https://leetcode.com/baarthomas/).
