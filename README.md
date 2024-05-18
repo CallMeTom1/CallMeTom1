@@ -1,10 +1,17 @@
 # Hey, I'm Thomas Baar 👋
 
-## À propos de moi
-Je suis un développeur passionné par le code et les nouvelles technologies. J'aime contribuer à des projets open source et apprendre continuellement de nouvelles choses.
+## About Me
+I am a developer currently learning and developing my skills. I strive to learn as much as I can and get hands-on experience with various technologies. I am very curious and love exploring new fields.
 
-## Langages et Outils
-## Langages et Outils
+## I'm Currently Working On
+I'm currently working on **Euro-Sky-Star**, a school web project with a microservice architecture. This project uses gRPC for communication, Kafka for handling messages, and an API gateway with REST HTTP. I am building the front end with Angular.
+
+I am also preparing for tech interviews with LeetCode and learning algorithms and data structures.
+
+I have a keen interest in quantitative finance, where I experiment with AI, improve my statistics and math skills, and gain knowledge of financial markets.
+
+## Languages and Tools
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
@@ -23,23 +30,3 @@ Je suis un développeur passionné par le code et les nouvelles technologies. J'
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-
-
-
-
-
-<!--
-**CallMeTom1/CallMeTom1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
