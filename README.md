@@ -1,7 +1,9 @@
 # Hey, I'm Thomas Baar ✌️
 
 ## About Me
-I am a computer science student 👨‍💻 currently learning and developing my skills. I strive to learn 📚 as much as I can and get hands-on experience with various technologies. I am very curious and love exploring new fields. 🚀
+I am currently pursuing a Bachelor's degree in Computer Science, learning and developing my skills.👨‍💻 
+I strive to learn 📚 as much as I can and get hands-on experience with various technologies. 
+I am very curious and love exploring new fields. 🚀
 
 ## Currently Working On
 I'm currently working on **Euro-Sky-Star** ✈️, a school web project with a microservice architecture 🛠️ . This project uses gRPC for communication, Kafka for handling messages, and an API gateway with REST HTTP. 
