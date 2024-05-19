@@ -1,4 +1,4 @@
-# Hey, I'm Thomas Baar 🙋‍♂️
+# Hey, I'm Thomas Baar ✌️
 
 ## About Me
 I am a computer science student 👨‍💻 currently learning and developing my skills. I strive to learn 📚 as much as I can and get hands-on experience with various technologies. I am very curious and love exploring new fields. 🚀
