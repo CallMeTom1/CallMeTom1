@@ -12,7 +12,7 @@ I am also building the front end with Angular 🅰️.
 
 I am also preparing for tech interviews 🧠 with [LeetCode](https://leetcode.com/baarthomas/) and learning algorithms and data structures.
 
-I have a keen interest in quantitative finance 📈, where I experiment with AI 🤖, improve my statistics and math skills , and gain knowledge of financial markets. 💡
+I have a keen interest in quantitative finance 📈, where I experiment with ML 🤖, improve my statistics and math skills , and gain knowledge of financial markets. 💡
 
 I'm also diving into writing articles about the technologies I use in my projects. You can find them on [Medium](https://medium.com/@baarthomas). 📝 Have a look and feel free to leave a clap and comment!
 
